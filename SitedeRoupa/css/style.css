@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg-light {
+    background-color: #2c95fd!important;
+}
+
+.form-control {
+    display: block;
+    width: 20%;
+}
+
+.samu{
+    margin: 2rem;
+}
